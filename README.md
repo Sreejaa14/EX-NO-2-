@@ -173,5 +173,5 @@ int main() {
 }
 ```
 Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca521e2e-ac95-4a4e-8b8d-77cda813b815" />
+<img width="736" height="450" alt="image" src="https://github.com/user-attachments/assets/c8bf09dd-ca4d-461d-b86f-f285d2ca69d3" />
 
